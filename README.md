@@ -1,5 +1,5 @@
 # Crabada Selenium Bot
-This is an older version of Crabada Bot I used to use. It was from the times when attack missions required captcha solution.
+This is an older version of Crabada Bot I used to use. It runs with Selenium Web Driver. It was from the times when attack missions required captcha solution.
 This bot can handle multiple accounts, solves captchas and attack, even though there is no captchas anymore, it can still work but other bot is way more faster.
 It includes miner and looter too, so it's fully automatized.
 ## Set Up
